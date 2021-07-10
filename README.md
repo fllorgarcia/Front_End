@@ -5,7 +5,7 @@
 ###  MAQUETANDO_EN_HTML 
 
 🍋 `Lemon_Pie` [link al repositorio](https://github.com/fllorgarcia/Front_End)
- > Se realiza un maquetado  semántico con **HTML5**, de la página enviada por la docente mediante *figma*
+  Se realiza un maquetado  semántico con **HTML5**, de la página enviada por la docente mediante *figma*
     ~~~
      Se muestrala receta para realizar un Lemon Pie
      ~~~
