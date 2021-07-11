@@ -15,7 +15,7 @@
   
     
   > Se realiza un maquetado  semántico con **HTML5**, de la página enviada por la docente mediante *figma*
-  > Se muestra el e-commerce del Pet Shop
+  > Se muestra el eCommerce del Pet Shop
   ---
     
  
