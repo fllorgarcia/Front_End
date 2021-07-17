@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color:#E5E5E5;
+  text-align: center;
+  line-height: 29.64px;
+}
+main{
+    background-color: white;
+}
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  color: #005677;
+  text-transform: uppercase;
+  background-color:#C4C4C4;
+}
+h2 {
+    font-family: "Times New Roman", Times, serif;
+    color: #005677;
+    background-color: #c4c4c4;
+  }
+  .letraDistinta{
+    font-family:'Times New Roman', Times, serif,sans-serif;
+    font-weight: bold;
+    font-style: italic;
+  }
+  .fraseFinal {
+    background-color: #005677;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  h3{
+    background-color: #005677;
+  }
+  
