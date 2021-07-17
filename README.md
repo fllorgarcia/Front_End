@@ -16,11 +16,19 @@
     
   > Se realiza un maquetado  semántico con **HTML5**, de la página enviada por la docente mediante *figma*
   > Se muestra el e-commerce del Pet Shop
-  ---
- 💪  `Batman_Cv` [Mi maquetado](http://127.0.0.1:5500/C7-Batman/index.html) [Mi carpeta](https://github.com/fllorgarcia/Front_End/tree/main/C7-Batman)
+   ---
+
+  💪  `Batman_Cv` [Mi maquetado](http://127.0.0.1:5500/C7-Batman/index.html) [Mi carpeta](https://github.com/fllorgarcia/Front_End/tree/main/C7-Batman)
   
     
   > Se realiza un maquetado  semántico con **HTML5**, de la página enviada por la docente mediante *figma*
   > Se muestra el cv de Batman
+    ---
+  👧  `Cv_Personal` [Mi maquetado](http://127.0.0.1:5500/C8-CvPropio/index.html) [Mi carpeta](https://github.com/fllorgarcia/Front_End/tree/main/C8-CvPropio)
+  
+    
+  > Se realiza un maquetado  semántico con **HTML5**, de la página enviada por la docente mediante *figma*
+  > Se muestra el cv personal
+    
     
  
