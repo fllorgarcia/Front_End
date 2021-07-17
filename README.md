@@ -17,5 +17,10 @@
   > Se realiza un maquetado  semántico con **HTML5**, de la página enviada por la docente mediante *figma*
   > Se muestra el e-commerce del Pet Shop
   ---
+ :memo:  `Pet_Shop` [Mi maquetado](http://127.0.0.1:5500/C7-Batman/index.html) [Mi carpeta](https://github.com/fllorgarcia/Front_End/tree/main/C6-PetShop)
+  
+    
+  > Se realiza un maquetado  semántico con **HTML5**, de la página enviada por la docente mediante *figma*
+  > Se muestra el cv de Batman
     
  
