@@ -1,0 +1,18 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.cardBatman{
+    background-image:url("assets/849bfede3a5193c34ab8a00379e64fa2\ 1.png");
+    position: relative;
+    width: 300px;
+    height: 193px;
+    left :32px;
+    top: 293px:
+}
+.cardBatmanCorazon{
+    width: 30px;
+    height: 26.25px;
+    top:1.88px;
+}
