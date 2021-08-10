@@ -33,7 +33,7 @@
   ---
   
   
-   :muscle: `Heroes` [Mi maquetado](https://fllorgarcia.github.io/Front_End/C10-heroes/index.html) [Mi carpeta](https://github.com/fllorgarcia/Front_End/tree/main/C10-heroes)
+  :star2: `Heroes` [Mi maquetado](https://fllorgarcia.github.io/Front_End/C10-heroes/index.html) [Mi carpeta](https://github.com/fllorgarcia/Front_End/tree/main/C10-heroes)
   
     
   > Se realiza un maquetado  semántico con **HTML5**, de la página enviada por la docente mediante *figma*
