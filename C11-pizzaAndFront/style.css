@@ -3,9 +3,11 @@
     padding: 0%;
     box-sizing: border-box;
 }
+/*header*/
 header{
     background-color: black;
     color:rgb(50, 212, 50);
+    display: flex;
 }
 .title1{
     color: honeydew;
@@ -13,22 +15,40 @@ header{
 .title11{
     color:red;
 }
+.logoarriba{
+    display: flex;
+}
 ul li a {
     text-decoration: none;
     color: white;
 }
-.primerImagen{
+.menuHeader{
+    display: flex;
+}
+/*main*/
+.main{
+    display: flex;
+}
+.imgDelivery{
     color: red;
     background-image: url(img/delivery.jpg);
     height: 350px;
     background-repeat: no-repeat;
+    
 }
-.segundaImagen{
+.imgblanco{
     background-color: #FFFFFF;
 }
-.mainn{display: flex;
+.imgblanco-texto{
+    display: flex;
 }
+/*footer*/
 footer{
     background-color: black;
     color:rgb(50, 212, 50);
+    display: flex;
+    justify-content: space-between;
+}
+.logoabajo{
+    display: flex;
 }
