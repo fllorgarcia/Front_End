@@ -32,10 +32,24 @@
   > Se muestra el cv personal
   ---
   
+  
+   :muscle: `Heroes` [Mi maquetado](https://fllorgarcia.github.io/Front_End/C10-heroes/index.html) [Mi carpeta](https://github.com/fllorgarcia/Front_End/tree/main/C10-heroes)
+  
+    
+  > Se realiza un maquetado  semántico con **HTML5**, de la página enviada por la docente mediante *figma*
+  > Se realiza la agregacion de estilos con **CSS**
+  > Se muestran los heroes
+  ---
+  
+  
  :pizza: `Pizza_Front` [Mi maquetado](https://fllorgarcia.github.io/Front_End/C11-pizzaAndFront/index.html) [Mi carpeta](https://github.com/fllorgarcia/Front_End/tree/main/C11-pizzaAndFront)
   
     
   > Se realiza un maquetado  semántico con **HTML5**, de la página enviada por la docente mediante *figma*
+  > Se realiza la agregacion de estilos con **CSS**
   > Se muestra la pagina de pizza
+  ---
+  
+  
     
  
