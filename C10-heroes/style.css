@@ -3,6 +3,10 @@
     padding: 0%;
     box-sizing: border-box;
 }
+a{
+    Text-decoration:none;
+}
+    
 /*HEADER*/
 header div{
     display: flex;
@@ -26,7 +30,10 @@ header h1{
 main{
     width: 100%;
     padding: 50px;
-    display: flex;
+    margin-bottom: 30px;
+}
+main > div{
+display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
 }
@@ -61,6 +68,13 @@ main{
     left :32px;
     top: 293px;
 }
+/*boton*/
+main div a{
+    background-color:#00669F ;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
 /*footer*/
 footer{
     background-color: #00669F;
@@ -68,5 +82,17 @@ footer{
     height: 10px;
     color: white;
     font-family: 'Roboto', sans-serif;
-    padding:47px ; 
-   }
+    padding: 30px;
+}
+/*RESPONSIVE*/
+/*tablet*/
+@media screen and (max-width: 768px) {
+
+}
+@media screen and (max-width: 480px) {
+    main > div{
+width: 100%;
+}
+}
+
+
